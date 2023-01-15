@@ -1,4 +1,10 @@
+$primary: steelblue;
+
 h2{
-    color: crimson;
+    color: $primary;
     font-size: 3rem;
+}
+
+p{
+    color: $primary ;
 }

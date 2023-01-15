@@ -1,6 +1,10 @@
 h2 {
-  color: crimson;
+  color: steelblue;
   font-size: 3rem;
+}
+
+p {
+  color: steelblue;
 }
 
 /*# sourceMappingURL=style.css.map */
